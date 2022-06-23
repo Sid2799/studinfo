@@ -1,0 +1,1 @@
+package stduentinfo.stduentinfoentity;
